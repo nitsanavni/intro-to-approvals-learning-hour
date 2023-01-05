@@ -12,6 +12,6 @@
 
 -   [ ] [Connect](connect.md)
 -   [ ] [Approval Tests - Explain](explain.md)
--   [ ] Concept #1 - Demo - Micro-Asserts vs. Approvals
--   [ ] Concept #2 -
--   [ ] Concrete #1 - build with micro
+-   [ ] Demo - 1. Micro-Asserts 2. Approvals
+-   [ ] [Exercise - Use Asserts](exercise-use-asserts.md)
+-   [ ] Conclusions

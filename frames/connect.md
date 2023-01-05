@@ -7,6 +7,10 @@
 How is a single test structured?
 How are multiple tests for a single module?
 
-### Rule - no talking and typing at the same time
+> Rule - one person talks, another writes for them
+
+Your answers here:
+
+-
 
 [back](index.md)

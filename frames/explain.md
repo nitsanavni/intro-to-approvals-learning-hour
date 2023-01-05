@@ -25,7 +25,7 @@ Approvals look like this:
 verify(fizzbuzz(5));
 ```
 
-**Q:** What's the main difference?
+> **Q:** What's the main difference?
 
 ### How it Works?
 
