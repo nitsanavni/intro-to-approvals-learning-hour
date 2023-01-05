@@ -30,6 +30,7 @@ Now, let's rebuild fizzbuzz with approvals.
     -   [ ] make the code right
     -   [ ] "approve" the result
         -   [ ] copy from left to right in the diff tool
+            -   [ ] use the UI button
         -   [ ] save
     -   [ ] see the test pass
 
