@@ -1,0 +1,8 @@
+{
+    "name": "intro-to-approvals",
+    "module": "fizzbuzz.ts",
+    "type": "module",
+    "devDependencies": {
+        "bun-types": "^0.4.0"
+    }
+}
