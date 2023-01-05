@@ -1,12 +1,22 @@
+---
+marp: true
+---
+
 [back](index.md)
 
+---
+
 # Approval Tests
+
+---
 
 ## AKA
 
 -   "Approvals"
 -   "Snapshot"
 -   "Golden Master" / "Golden Reference"
+
+---
 
 ## What is It?
 
@@ -27,11 +37,15 @@ verify(fizzbuzz(5));
 
 > **Q:** What's the main difference?
 
+---
+
 ### How it Works?
 
 Keep an **approved snapshot** of the test results.
 
 Running the test -> compare current results to approved.
+
+---
 
 ### Some of the Benefits
 
@@ -40,6 +54,8 @@ Running the test -> compare current results to approved.
 -   Broader assertions in a single go
 -   Easily supports composite objects and flows - by 'stringifying' them
 -   Quick coverage of existing code - for another Learning Hour :)
+
+---
 
 ### Some Cons
 
