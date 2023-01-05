@@ -2,7 +2,15 @@
 
 # Exercise - Use Asserts
 
+## Goal
+
 Let's build [fizzbuzz](https://sammancoaching.org/kata_descriptions/fizzbuzz.html) with micro-asserts.
+
+## Steps
+
+> Hint: use Split Editor to follow along
+
+> Note: take your time, we don't have to complete all steps
 
 -   [ ] run the assert-based test, see it fail
         in the terminal:
@@ -22,37 +30,56 @@ Let's build [fizzbuzz](https://sammancoaching.org/kata_descriptions/fizzbuzz.htm
     -   [ ] you can find the relevant script with `./menu.sh`
     -   [ ] test should still pass
 
--   [ ] `fizzbuzz(2)`
+-   [ ] `fizzbuzz(2)` (n)
 
     -   [ ] add a new test / or new assert
     -   [ ] see it fail
     -   [ ] make it pass, with the smallest change possible
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(3)`
+-   [ ] `fizzbuzz(3)` (Fizz)
 
     -   [ ] add a new test / or new assert
     -   [ ] see it fail
     -   [ ] make it pass, with the smallest change possible
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(4)`
+-   [ ] `fizzbuzz(4)` (just another number)
 
     -   [ ] add a new test / or new assert
     -   [ ] **challenge / optional:** see it fail
     -   [ ] make it pass, with the smallest change possible
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(5)`
+-   [ ] `fizzbuzz(5)` (Buzz)
 
     -   [ ] add a new test / or new assert
     -   [ ] see it fail
     -   [ ] make it pass, with the smallest change possible
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(6)`
+-   [ ] `fizzbuzz(6)` (multiple of 3)
 
     -   [ ] add a new test / or new assert
     -   [ ] see it fail
     -   [ ] make it pass, with the smallest change possible
     -   [ ] refactor if you like
+
+-   [ ] `fizzbuzz(10)` (multiple of 5)
+
+    -   [ ] add a new test / or new assert
+    -   [ ] see it fail
+    -   [ ] make it pass, with the smallest change possible
+    -   [ ] refactor if you like
+
+-   [ ] `fizzbuzz(15)` (FizzBuzz)
+
+    -   [ ] add a new test / or new assert
+    -   [ ] see it fail
+    -   [ ] make it pass, with the smallest change possible
+    -   [ ] refactor if you like
+
+-   [ ] add `Whizz` and `Bang`, using the same approach as earlier steps
+        see the "Follow-up requirements" section [here](https://sammancoaching.org/kata_descriptions/fizzbuzz.html)
+
+[back](index.md)
