@@ -1,3 +1,5 @@
+[back](index.md)
+
 # Approval Tests
 
 ## AKA
@@ -10,10 +12,11 @@
 
 ### A Different Kind of Assertion
 
-Instead of:
+While micro assertions look like this:
 
 ```ts
 assert(fizzbuzz(5) == "Fizz");
+expect(fizzbuzz(5)).toEqual("Fizz");
 ```
 
 Approvals look like this:
@@ -22,7 +25,7 @@ Approvals look like this:
 verify(fizzbuzz(5));
 ```
 
-Notice - the `"Fizz"` is gone.
+**Q:** What's the main difference?
 
 ### How it Works?
 
@@ -34,8 +37,12 @@ Running the test -> compare current results to approved.
 
 -   Leverage the human visual system by looking at diffs
 -   Skip typing (automate) expected results by leaning on a diff tool
+-   Broader assertions in a single go
+-   Easily supports composite objects and flows - by 'stringifying' them
 -   Quick coverage of existing code - for another Learning Hour :)
 
 ### Some Cons
 
 -   Tests now "live" in two places
+
+[back](index.md)

@@ -7,17 +7,11 @@
 -   run tests on save
 -   git checkout code files to specific state
 -   build-up complexity - start with dummy examples
--   let's use bun
--   installation scripts
--   need two infras - for same module
-    1. micro tests
--   hello
 
 ## Frames
 
--   [ ] Connect
-    -   how do you usually structure tests?
--   [ ] [Approval Tests - Explain]()
+-   [ ] [Connect](connect.md)
+-   [ ] [Approval Tests - Explain](explain.md)
 -   [ ] Concept #1 - Demo - Micro-Asserts vs. Approvals
 -   [ ] Concept #2 -
 -   [ ] Concrete #1 - build with micro
