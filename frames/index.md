@@ -16,7 +16,8 @@
 ## Frames
 
 -   [ ] Connect
--   [ ] Concept #0 -
+    -   how do you usually structure tests?
+-   [ ] [Approval Tests - Explain]()
 -   [ ] Concept #1 - Demo - Micro-Asserts vs. Approvals
 -   [ ] Concept #2 -
 -   [ ] Concrete #1 - build with micro
