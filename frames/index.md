@@ -1,13 +1,5 @@
 # Intro to Approvals
 
-### in
-
--   instructions - checklists - checkboxes
--   coverage
--   run tests on save
--   git checkout code files to specific state
--   build-up complexity - start with dummy examples
-
 ## Frames
 
 -   [ ] [Connect](connect.md)
