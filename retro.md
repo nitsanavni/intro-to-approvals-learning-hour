@@ -4,7 +4,7 @@
 -   gitpod
     -   strict strong style navigation for markdown too
     -   multiple people editing the same file - doesn't work, it's not google doc
-    -   the diff tool did not open on their browsers
+    -   -1 the diff tool did not open on their browsers; so they did not experience it first-hand :/
         -   could add a script for that
         -   don't delete the received file
         -   pin the diff tab
