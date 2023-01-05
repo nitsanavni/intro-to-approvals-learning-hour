@@ -12,7 +12,7 @@ Let's build [fizzbuzz](https://sammancoaching.org/kata_descriptions/fizzbuzz.htm
 
 > Note: take your time, we don't have to complete all steps
 
--   [ ] run the assert-based test, see it fail
+-   [x] run the assert-based test, see it fail
         in the terminal:
 
         ```
@@ -20,29 +20,29 @@ Let's build [fizzbuzz](https://sammancoaching.org/kata_descriptions/fizzbuzz.htm
         ./menu.sh
         ```
 
--   [ ] make the test pass, make only the smallest change necessary
+-   [x] make the test pass, make only the smallest change necessary
         you can follow links with `ctrl + enter`
         [test is here](../typescript/fizzbuzz.spec.ts)
         [code is here](../typescript/fizzbuzz.ts)
 
--   [ ] run the assert-based test continuously in the terminal
+-   [x] run the assert-based test continuously in the terminal
 
-    -   [ ] you can find the relevant script with `./menu.sh`
-    -   [ ] test should still pass
+    -   [x] you can find the relevant script with `./menu.sh`
+    -   [x] test should still pass
 
--   [ ] `fizzbuzz(2)` (n)
+-   [x] `fizzbuzz(2)` (n)
 
-    -   [ ] add a new test / or new assert
-    -   [ ] see it fail
-    -   [ ] make it pass, with the smallest change possible
-    -   [ ] refactor if you like
+    -   [x] add a new test / or new assert
+    -   [x] see it fail
+    -   [x] make it pass, with the smallest change possible
+    -   [x] refactor if you like
 
--   [ ] `fizzbuzz(3)` (Fizz)
+-   [x] `fizzbuzz(3)` (Fizz)
 
-    -   [ ] add a new test / or new assert
-    -   [ ] see it fail
-    -   [ ] make it pass, with the smallest change possible
-    -   [ ] refactor if you like
+    -   [x] add a new test / or new assert
+    -   [x] see it fail
+    -   [x] make it pass, with the smallest change possible
+    -   [x] refactor if you like
 
 -   [ ] `fizzbuzz(4)` (just another number)
 

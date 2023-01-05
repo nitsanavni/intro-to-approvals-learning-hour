@@ -12,34 +12,34 @@ Now, let's rebuild fizzbuzz with approvals.
 
 > Note: take your time, we don't have to complete all steps
 
--   [ ] reset the code to its starting position
+-   [x] reset the code to its starting position
 
-    -   [ ] there's a script for that on the `./menu.sh`
+    -   [x] there's a script for that on the `./menu.sh`
 
--   [ ] run the approval test
+-   [x] run the approval test
 
-    -   [ ] there's a script for that too on the `./menu.sh`
-    -   [ ] see it fail
-    -   [ ] see the diff tool open
+    -   [x] there's a script for that too on the `./menu.sh`
+    -   [x] see it fail
+    -   [x] see the diff tool open
 
--   [ ] make the test pass with no errors
+-   [x] make the test pass with no errors
         (you can follow links with `ctrl + enter`)
         [test is here](../typescript/fizzbuzz.approvaltest.ts)
         [code is here](../typescript/fizzbuzz.ts)
 
-    -   [ ] make the code right
-    -   [ ] "approve" the result
-        -   [ ] copy from left to right in the diff tool
-            -   [ ] use the UI button
-        -   [ ] save
-    -   [ ] see the test pass
+    -   [x] make the code right
+    -   [x] "approve" the result
+        -   [x] copy from left to right in the diff tool
+            -   [x] use the UI button
+        -   [x] save
+    -   [x] see the test pass
 
--   [ ] run the approval test continuously in the terminal
+-   [x] run the approval test continuously in the terminal
 
-    -   [ ] you can find the relevant script with `./menu.sh`
-    -   [ ] test should still pass
+    -   [x] you can find the relevant script with `./menu.sh`
+    -   [x] test should still pass
 
--   [ ] `fizzbuzz(2)`
+-   [x] `fizzbuzz(2)`
 
     -   [ ] refactor our code to introduce a loop over `n`
     -   [ ] see the test still pass for `n == 1`
@@ -49,7 +49,7 @@ Now, let's rebuild fizzbuzz with approvals.
     -   [ ] see the test pass
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(3)`
+-   [x] `fizzbuzz(3)`
 
     -   [ ] loop up to `n == 3`
     -   [ ] change the `fizzbuzz` code until the diff is good
@@ -81,7 +81,7 @@ Now, let's rebuild fizzbuzz with approvals.
     -   [ ] see the test pass
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(10)`
+-   [x] `fizzbuzz(10)`
 
     -   [ ] loop up to `n == 10`
     -   [ ] change the `fizzbuzz` code until the diff is good
@@ -89,7 +89,7 @@ Now, let's rebuild fizzbuzz with approvals.
     -   [ ] see the test pass
     -   [ ] refactor if you like
 
--   [ ] `fizzbuzz(15)`
+-   [x] `fizzbuzz(15)`
 
     -   [ ] loop up to `n == 15`
     -   [ ] change the `fizzbuzz` code until the diff is good

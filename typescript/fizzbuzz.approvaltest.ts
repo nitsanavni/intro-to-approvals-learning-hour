@@ -4,4 +4,6 @@ const log = console.log;
 
 log("fizzbuzz");
 
-log(`1 -> ${fizzbuzz(1)}`);
+for (let n = 1; n <= 3 * 5 * 7; n++) {
+    log(`${n} -> ${fizzbuzz(n)}`);
+}
