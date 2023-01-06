@@ -2,7 +2,7 @@
 
 You can find an implementation of this learning hour [here](frames/index.md).
 
-For remote sessions I use a shared gitpod workspace, and work directly from the markdown files.
+For remote sessions I use a shared [gitpod](https://www.gitpod.io/docs/introduction) workspace, and work directly from the markdown files.
 
 ## Goals
 
