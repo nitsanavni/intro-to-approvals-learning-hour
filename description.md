@@ -18,7 +18,7 @@ In this Learning Hour, we focus on building simple code from scratch only.
 -   Concrete - 30m (10m + 15m)
 -   Conclusion - 5m
 
-My first attempt took 1h 17m.
+(My first attempt took 1h 17m.)
 
 ## Connect
 
