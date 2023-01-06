@@ -8,6 +8,6 @@
 
 ## The Learning Hour
 
-[Participants, look here.](frames/index.md)
+The Learning Hour starts [here](frames/index.md).
 
-[Facilitators, look here.](description.md)
+Facilitators, look [here](description.md).

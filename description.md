@@ -4,6 +4,14 @@ You can find an implementation of this learning hour [here](frames/index.md).
 
 For remote sessions I use a shared [gitpod](https://www.gitpod.io/docs/introduction) workspace, and work directly from the markdown files.
 
+See other Approvals-related Learning Hours [here](https://sammancoaching.org/learning_hours/approval_testing_bdd.html).
+
+## Audience
+
+-   Learners are familiar with unit testing
+-   Preferably, familiar with TDD
+-   No knowledge of Approvals is needed
+
 ## Goals
 
 -   Learners to be familiar with Approval Tests
