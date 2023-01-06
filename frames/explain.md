@@ -15,7 +15,6 @@
 While micro assertions look like this:
 
 ```ts
-assert(fizzbuzz(5) == "Fizz");
 expect(fizzbuzz(5)).toEqual("Fizz");
 ```
 

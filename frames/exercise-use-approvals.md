@@ -1,6 +1,6 @@
 [back](index.md)
 
-# Exercise - Use Asserts
+# Exercise - Use Approvals
 
 ## Goal
 
