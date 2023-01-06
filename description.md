@@ -47,7 +47,7 @@ The starting position is [here](typescript/README.md)
 ## Concrete #1 - Build with Micro-Asserts
 
 Prepare a starting position of the kata - the same kata you used for the Demo. [Here's the one I used](typescript/README.md).
-Provide clear, step-by-step instructions - a checklist.
+Provide clear, step-by-step instructions - a checklist. (I learned this method from Llewellyn Falco)
 If learners are familiar with ensemble work, have then rotate after each completed step.
 Emphasize that they should take their time, no need to complete all steps.
 Stop and go to the next exercise when they get the point.
