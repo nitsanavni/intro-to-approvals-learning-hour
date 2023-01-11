@@ -1,0 +1,1 @@
+ls fizzbuzz-test.c | entr -c ./verify.sh ./drive.sh
