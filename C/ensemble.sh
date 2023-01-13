@@ -1,6 +1,6 @@
 #!/bin/bash -i
 
-timeout 15 ./test-watch.sh
+timeout '2m' ./test-watch.sh
 
 reset
 
