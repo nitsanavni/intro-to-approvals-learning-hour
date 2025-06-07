@@ -93,6 +93,8 @@ Based on our session:
 - ❌ Moving forward without checking understanding
 - ❌ Forgetting to track time
 - ❌ Making decisions for the learner
+- ❌ **Rushing through steps** - Even after seeing red, PAUSE before making it green
+- ❌ **Assuming next actions** - Each step is a decision point
 
 ## Green Flags to Pursue
 
