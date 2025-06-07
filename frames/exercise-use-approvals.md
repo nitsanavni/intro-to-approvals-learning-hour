@@ -1,6 +1,8 @@
-[back](index.md)
+[← Exercise - Use Asserts](exercise-use-asserts.md) | [↑ Index](index.md) | [→ Conclusions](conclusions.md)
 
 # Exercise - Use Approvals
+
+*Timebox: 20-25 minutes*
 
 ## Goal
 
@@ -106,4 +108,8 @@ Now, let's rebuild fizzbuzz with approvals.
 -   [ ] add `Whizz` and `Bang`, using the same approach as earlier steps
         see the "Follow-up requirements" section [here](https://sammancoaching.org/kata_descriptions/fizzbuzz.html)
 
-[back](index.md)
+## Bonus Discussion
+
+If time allows or questions arise: [Two Approval Testing Styles](bonus-approval-styles.md)
+
+[← Exercise - Use Asserts](exercise-use-asserts.md) | [↑ Index](index.md) | [→ Conclusions](conclusions.md)

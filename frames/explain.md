@@ -1,6 +1,8 @@
-[back](index.md)
+[← Connect](connect.md) | [↑ Index](index.md) | [→ Exercise - Use Asserts](exercise-use-asserts.md)
 
 # Approval Tests
+
+*Timebox: 5-7 minutes*
 
 ## AKA
 
@@ -44,4 +46,4 @@ Running the test -> compare current results to approved.
 
 -   Tests now "live" in two places
 
-[back](index.md)
+[← Connect](connect.md) | [↑ Index](index.md) | [→ Exercise - Use Asserts](exercise-use-asserts.md)

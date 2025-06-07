@@ -1,6 +1,8 @@
-[back](index.md)
+[← Approval Tests - Explain](explain.md) | [↑ Index](index.md) | [→ Exercise - Use Approvals](exercise-use-approvals.md)
 
 # Exercise - Use Asserts
+
+*Timebox: 15-20 minutes*
 
 ## Goal
 
@@ -82,4 +84,4 @@ Let's build [fizzbuzz](https://sammancoaching.org/kata_descriptions/fizzbuzz.htm
 -   [ ] add `Whizz` and `Bang`, using the same approach as earlier steps
         see the "Follow-up requirements" section [here](https://sammancoaching.org/kata_descriptions/fizzbuzz.html)
 
-[back](index.md)
+[← Approval Tests - Explain](explain.md) | [↑ Index](index.md) | [→ Exercise - Use Approvals](exercise-use-approvals.md)

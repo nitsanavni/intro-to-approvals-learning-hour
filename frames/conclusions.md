@@ -1,6 +1,8 @@
-[back](index.md)
+[← Exercise - Use Approvals](exercise-use-approvals.md) | [↑ Index](index.md)
 
 # Conclusions
+
+*Timebox: 5-10 minutes*
 
 Q: how did that feel?
 
@@ -10,4 +12,4 @@ Your answers here:
 
 -
 
-[back](index.md)
+[← Exercise - Use Approvals](exercise-use-approvals.md) | [↑ Index](index.md)

@@ -1,6 +1,8 @@
-[back](index.md)
+[↑ Index](index.md) | [→ Approval Tests - Explain](explain.md)
 
 # Test Structure
+
+*Timebox: 2-3 minutes*
 
 ## Q - How do you usually structure tests?
 
@@ -13,4 +15,4 @@ Your answers here:
 
 -
 
-[back](index.md)
+[↑ Index](index.md) | [→ Approval Tests - Explain](explain.md)
